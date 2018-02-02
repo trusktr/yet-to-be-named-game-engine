@@ -1,0 +1,13 @@
+{
+    "name": "yet-to-be-named",
+    "description": "The easiest-to-develop-with game engine.",
+    "dependencies": {
+        "cannon": "^0.6.2",
+        "express": "^4.16.2",
+        "infamous": "^18.0.11",
+        "lance-gg": "^1.0.10",
+        "popmotion": "^8.1.9",
+        "socket.io": "^2.0.4",
+        "vue": "^2.5.13"
+    }
+}
